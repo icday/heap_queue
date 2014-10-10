@@ -1,12 +1,15 @@
 {
-  "name": "priority_queue",
+  "name": "heap_queue",
   "version": "0.0.1",
-  "description": "a simple priority queue",
+  "description": "a simple priority queue base on heap",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/index.js"
   },
-  "author": "daiyc",
+  "author": {
+    "name": "icday",
+    "email": "dycheng1991@gmail.com"
+  },
   "license": "MIT",
   "devDependencies": {
     "should": "^4.0.4"

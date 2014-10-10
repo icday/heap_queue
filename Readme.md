@@ -3,7 +3,7 @@ A simple priority queue of Javascript.
 
 #Example
 
-    var Queue = require('priority_queue');
+    var Queue = require('heap_queue');
 
     var pq = new Queue(function(a, b) {
         return a - b;

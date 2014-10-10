@@ -1,1 +1,1 @@
-module.exports = require('./lib/priority_queue.js');
+module.exports = require('./lib/heap_queue.js');
