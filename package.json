@@ -1,6 +1,6 @@
 {
   "name": "heap_queue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a simple priority queue base on heap",
   "main": "index.js",
   "scripts": {
